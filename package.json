@@ -10,6 +10,7 @@
     "deploy": "next build"
   },
   "dependencies": {
+    "@portabletext/react": "^4.0.3",
     "@sanity/client": "^7.11.2",
     "@sanity/image-url": "^1.2.0",
     "geist": "^1.5.1",
